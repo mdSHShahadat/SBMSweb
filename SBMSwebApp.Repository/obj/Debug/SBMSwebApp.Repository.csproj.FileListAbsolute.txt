@@ -1,0 +1,15 @@
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Repository.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Repository.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\obj\Debug\SBMSwebApp.Repository.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\obj\Debug\SBMSwebApp.Repository.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Repository.dll.config
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.DatabaseContext.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Models.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.DatabaseContext.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.DatabaseContext.dll.config
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Models.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\obj\Debug\SBMSwebApp.Repository.csprojResolveAssemblyReference.cache

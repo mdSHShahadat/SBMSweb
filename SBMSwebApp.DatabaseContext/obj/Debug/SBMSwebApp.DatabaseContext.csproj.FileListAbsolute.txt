@@ -1,0 +1,17 @@
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.DatabaseContext.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.DatabaseContext.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.DatabaseContext.dll.config
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\SBMS.exe
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.Models.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\SBMS.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\SBMS.exe.config
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.Models.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.Migrations.Initial.resources
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\bin\Debug\SBMSwebApp.Models.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\bin\Debug\SBMSwebApp.Models.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.dll
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.pdb
+C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.csprojResolveAssemblyReference.cache
