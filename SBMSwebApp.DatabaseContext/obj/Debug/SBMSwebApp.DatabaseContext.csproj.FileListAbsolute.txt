@@ -15,3 +15,18 @@ C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseCon
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.csprojResolveAssemblyReference.cache
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.Migrations.Initial.resources
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.DatabaseContext.dll.config
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.DatabaseContext.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.DatabaseContext.pdb
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.Models.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\SBMSwebApp.Models.pdb
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.csprojAssemblyReference.cache
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.Migrations.Initial.resources
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.csproj.GenerateResource.cache
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.csproj.CopyComplete
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.DatabaseContext\obj\Debug\SBMSwebApp.DatabaseContext.pdb

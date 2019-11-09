@@ -21,14 +21,14 @@ namespace SBMSwebApp.Controllers
             categoryViewModel.Categories = categories;
             return View(categoryViewModel);
         }
-        [HttpPost]
-        public ActionResult Index(CategoryViewModel categoryViewModel)
-        {
-            List<CategoryViewModel> categories = _categoryManager.SearchCategory(categoryViewModel).Select(c => new CategoryViewModel { CategoryId = c.CategoryId, CategoryName = c.CategoryName, CategoryCode = c.CategoryCode, IsActive = c.IsActive, Date = c.Date }).ToList();
-            CategoryViewModel category = new CategoryViewModel();
-            category.Categories = categories;
-            return View(category);
-        }
+        //[HttpPost]
+        //public ActionResult Index(CategoryViewModel categoryViewModel)
+        //{
+        //    List<CategoryViewModel> categories = _categoryManager.SearchCategory(categoryViewModel).Select(c => new CategoryViewModel { CategoryId = c.CategoryId, CategoryName = c.CategoryName, CategoryCode = c.CategoryCode, IsActive = c.IsActive, Date = c.Date }).ToList();
+        //    CategoryViewModel category = new CategoryViewModel();
+        //    category.Categories = categories;
+        //    return View(category);
+        //}
         public ActionResult SaveCategory()
         {
             return View();
@@ -201,6 +201,13 @@ namespace SBMSwebApp.Controllers
                 }
             }
             return View();
+        }
+        public JsonResult SearchCategory(string categoryCode)
+        {
+            List<Category> categoryList = new List<Category>();
+            var categories = _categoryManager.GetCategories().Where(c => c.CategoryCode.ToLower().Contains(categoryCode.ToLower()));
+            categoryList = categories.ToList();
+            return Json(categoryList, JsonRequestBehavior.AllowGet);
         }
     }
 }

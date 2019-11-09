@@ -6,13 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title >SBMS</title>
+    <title>SBMS</title>
 
     <!-- Bootstrap CSS CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <!-- Our Custom CSS -->
-    <link rel="stylesheet" href="style2.css">
+    @*<link rel="stylesheet" href="style2.css">*@
     <link href="~/Content/css/style2.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
     <!-- Scrollbar Custom CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
 
@@ -28,7 +29,7 @@
         <!-- Sidebar  -->
         <nav id="sidebar">
             <div class="sidebar-header ">
-               
+
                 <a href="#" class="sidebar-header ">
                     @*<i class="fa fa-calculator" aria-hidden="true" style="color:azure"></i>*@
                     <img class="fa-align-center" src="~/Resources/icons/android-chrome-512x512.png" />
@@ -39,20 +40,20 @@
             <ul class="list-unstyled components">
 
                 @*<li>
-                    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
-                    <ul class="collapse list-unstyled" id="homeSubmenu">
-                        <li>
-                            <a href="#">Home 1</a>
-                        </li>
-                        <li>
-                            <a href="#">Home 2</a>
-                        </li>
-                        <li>
-                            <a href="#">Home 3</a>
-                        </li>
-                    </ul>
-                </li>
-                <li>*@
+                        <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
+                        <ul class="collapse list-unstyled" id="homeSubmenu">
+                            <li>
+                                <a href="#">Home 1</a>
+                            </li>
+                            <li>
+                                <a href="#">Home 2</a>
+                            </li>
+                            <li>
+                                <a href="#">Home 3</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>*@
 
 
                 @*</li>*@
@@ -70,7 +71,7 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="#partySubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle" ><i class="fa fa-handshake " aria-hidden="true" style="color:black"></i> Party Module</a>
+                    <a href="#partySubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle"><i class="fa fa-handshake " aria-hidden="true" style="color:black"></i> Party Module</a>
                     <ul class="collapse list-unstyled" id="partySubmenu">
                         <li>
                             <a href="/Customer/index">Customer</a>
@@ -191,7 +192,7 @@
             </nav>
             @RenderBody()
         </div>
-        
+
     </div>
 
     <!-- jQuery CDN - Slim version (=without AJAX) -->
@@ -202,6 +203,8 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
     <!-- jQuery Custom Scroller CDN -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
 
     <script type="text/javascript">
         $(document).ready(function () {
@@ -216,7 +219,7 @@
             });
         });
     </script>
-   
+
     @RenderSection("Scripts", false)
 </body>
 

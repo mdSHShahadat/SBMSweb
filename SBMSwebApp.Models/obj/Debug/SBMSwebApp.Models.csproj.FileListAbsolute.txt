@@ -3,3 +3,8 @@ C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\bin\
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.dll
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.pdb
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.csprojResolveAssemblyReference.cache
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Models\bin\Debug\SBMSwebApp.Models.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Models\bin\Debug\SBMSwebApp.Models.pdb
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.csprojAssemblyReference.cache
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Models\obj\Debug\SBMSwebApp.Models.pdb

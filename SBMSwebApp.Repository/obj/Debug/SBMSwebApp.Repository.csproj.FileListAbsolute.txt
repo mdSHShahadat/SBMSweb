@@ -13,3 +13,19 @@ C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\EntityFramework.xml
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Md. Shahadat Hossain\Desktop\sbms_webapplication\SBMSwebApp.Repository\obj\Debug\SBMSwebApp.Repository.csprojResolveAssemblyReference.cache
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Repository.dll.config
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Repository.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Repository.pdb
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\EntityFramework.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.DatabaseContext.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Models.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.DatabaseContext.pdb
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.DatabaseContext.dll.config
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\SBMSwebApp.Models.pdb
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\EntityFramework.xml
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\obj\Debug\SBMSwebApp.Repository.csprojAssemblyReference.cache
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\obj\Debug\SBMSwebApp.Repository.csproj.CopyComplete
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\obj\Debug\SBMSwebApp.Repository.dll
+C:\Users\rajib\Desktop\SBMSweb\SBMSwebApp.Repository\obj\Debug\SBMSwebApp.Repository.pdb
